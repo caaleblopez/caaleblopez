@@ -13,28 +13,28 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-🚀 &nbsp;I enjoy building full-stack applications, REST APIs, and scalable software solutions.\
-🎓 &nbsp;I'm a Software Development Engineer graduated from UTVM.\
-🌱 &nbsp;I'm currently learning AWS, Next.js, and Cloud Technologies.\
-💼 &nbsp;I'm actively looking for Full Stack Developer opportunities.\
-🤝 &nbsp;I enjoy working on SaaS platforms, administrative systems, and e-commerce projects.\
-📫 &nbsp;Feel free to reach out at **caleblopezcent17@gmail.com**.\
-📄 &nbsp;Check out my [CV](https://drive.google.com/file/d/1VYYqbGP8DL2Rqz0GOTAlJO_rtrz2LdT1/view?usp=sharing) for more about my experience.
+- &nbsp;I enjoy building full-stack applications, REST APIs, and scalable software solutions.
+- &nbsp;I'm a Software Development Engineer graduated from UTVM.
+- &nbsp;I'm currently learning AWS, Next.js, and Cloud Technologies.
+- &nbsp;I'm actively looking for Full Stack Developer opportunities.
+- &nbsp;I enjoy working on SaaS platforms, administrative systems, and e-commerce projects.
+- &nbsp;Feel free to reach out at **caleblopezcent17@gmail.com**.
+- &nbsp;Check out my [CV](https://drive.google.com/file/d/1VYYqbGP8DL2Rqz0GOTAlJO_rtrz2LdT1/view?usp=sharing) for more about my experience.
 
 ---
 
-### 💼 Experience
+###  Experience
 
 | Role | Company | Period | Details |
 |------|---------|--------|---------|
-| **Full Stack Developer Jr.** | Scadiasoft | May 2026 – Present | Designed and built **ConnectOS**, an internal client, contract, and technical support management system, using PHP, JavaScript, and MySQL. Delivered full CRUD functionality with client/server-side validation, enabling PDF report exports and priority-based SLA tracking to improve support workflow visibility. |
+| **Full Stack Developer Jr.** | Scadiasoft | May 2026 – Present | Collaborated on the development of ConnectOS, an ISP administrative system, using PHP (PDO), JavaScript, MySQL, and AJAX/JSON. Developed CRUD modules, automated SLA tracking and PDF reporting, and integrated REST APIs for a production system serving 400+ active clients. |
 | **Back-End Developer Jr.** | Kata Software | Jan 2026 – Apr 2026 | Built and shipped backend features for a production SaaS platform, developing REST APIs consumed by the front-end team. Ensured reliability through Postman-based testing and clear technical documentation, while collaborating cross-functionally under Scrum. |
 | **IT Support Auxiliary** | Sandos Hotels & Resorts | May 2024 – Aug 2024 | Kept hotel IT infrastructure running by resolving hardware/software incidents, administering basic network operations, and managing technology inventory — supporting daily operations across the property. |
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <a href="https://github.com/caaleblopez">
@@ -68,7 +68,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/caleb-israel-lopez-centeno-52a8a1361/" target="_blank">
