@@ -21,7 +21,7 @@
 💼 &nbsp;I'm actively looking for Full Stack Developer opportunities.\
 🤝 &nbsp;I enjoy working on SaaS platforms, administrative systems, and e-commerce projects.\
 📫 &nbsp;Feel free to reach out at **caleblopezcent17@gmail.com**.\
-📄 &nbsp;Check out my [CV](https://drive.google.com/file/d/1nHoOXHR3MaT5Z5s7KpyNdp_o1TXOKODp/view?usp=sharing) for more about my experience.
+📄 &nbsp;Check out my [CV](https://drive.google.com/file/d/1VYYqbGP8DL2Rqz0GOTAlJO_rtrz2LdT1/view?usp=sharing) for more about my experience.
 
 ---
 
